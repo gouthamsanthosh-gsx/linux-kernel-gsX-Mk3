@@ -1,5 +1,6 @@
 # linux-kernel-gsX-Mk3
 Linux kernel built for Puppy linux focal fossa 9.5
+Build date: 12-03-2024
 
 ## Info
 - Linux 6.7.9 stable kernel
